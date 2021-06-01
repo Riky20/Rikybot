@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Riky2094/Rikybot"
+    "url": "git+https://github.com/Riky20/Rikybot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Riky Ripaldo",
   "license": "Free Software",
   "bugs": {
-    "url": "https://github.com/Riky2094/Rikybot"
+    "url": "https://github.com/Riky20/Rikybot"
   },
-  "homepage": "https://github.com/Riky2094/Rikybot#readme"
+  "homepage": "https://github.com/Riky20/Rikybot#readme"
 }

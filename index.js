@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Rikybot'; 
-const instagram = 'https://instagram.com/rikyripaldo20'; 
+const instagram = 'https://m.facebook.com/santuy2094'; 
 const telegram = 'https://t.me/Rikylz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/Riky_Andespab';
+const youtube = 'https://youtube.com/channel/UCGrFy84ba1OfMAwpMkBZ0Lg';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const

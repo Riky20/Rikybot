@@ -8,7 +8,7 @@ Whatsapp Bot For Termux
 > apt install ffmpeg
 > apt install nodejs
 > apt install wget
-> git clone https://github.com/Riky2094/Rikybot
+> git clone https://github.com/Riky20/Rikybot.git
 > cd Rikybot
 > bash install.sh
 > node index.js
